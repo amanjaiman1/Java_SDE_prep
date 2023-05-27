@@ -32,3 +32,12 @@ public class staticInitializingBlocks {
         System.out.println("count: " + referStatic.getCount());
     }
 }
+
+Output: I want something else
+        We are noe inside the constructor
+        count: 20
+
+/*
+Now we can see the main function is first get allocated in memory ,
+execute the "I want something else" and then the class referStatic got revoked
+*/
