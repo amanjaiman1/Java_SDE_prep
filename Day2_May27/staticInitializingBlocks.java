@@ -1,3 +1,15 @@
+/*
+Static Initialization Blocks:
+Static initialization blocks are executed when the class is first loaded into memory, before any static variables or static methods are accessed.
+Static initialization blocks are declared using the static keyword.
+They are useful for performing one-time setup tasks or initializing static variables.
+
+-In this example, the MyClass contains a static initialization block declared with the static keyword.
+Inside the block, we print a message and initialize the static variable count to 5.
+When we run the Main class, the static initialization block is executed when the MyClass is first loaded into memory.
+
+*/
+
 package Day2_May27;
 
 class referStatic {
