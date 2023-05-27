@@ -33,3 +33,8 @@ public class instanceInitializingBlocks {
         System.out.println("value: " + theValue.getValue());
     }
 }
+
+
+Ouput : This will be execute first
+        This is the inside constructor
+        value: 10
