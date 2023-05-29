@@ -48,10 +48,10 @@ public class implicitSuper {
 }
 
 
-Output: Vehicle constructor called
-        Car constructor called
-        Brand: Toyota
-        Year: 2021
+//Output: Vehicle constructor called
+//        Car constructor called
+//        Brand: Toyota
+//        Year: 2021
 
 /*
 As you can see, when the Car object is created, the implicit super constructor of the Vehicle class is automatically invoked first,

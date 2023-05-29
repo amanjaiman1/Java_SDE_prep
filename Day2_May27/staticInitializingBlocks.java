@@ -33,9 +33,9 @@ public class staticInitializingBlocks {
     }
 }
 
-Output: I want something else
-        We are noe inside the constructor
-        count: 20
+//Output: I want something else
+//        We are noe inside the constructor
+//        count: 20
 
 /*
 Now we can see the main function is first get allocated in memory ,

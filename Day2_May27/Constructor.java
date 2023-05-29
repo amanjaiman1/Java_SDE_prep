@@ -23,4 +23,4 @@ public class Constructor {
     }
 }
 
-Output: Writing Something by Red pen and we have 12 pen
+//Output: Writing Something by Red pen and we have 12 pen

@@ -34,7 +34,7 @@ public class instanceInitializingBlocks {
     }
 }
 
-
-Ouput : This will be execute first
-        This is the inside constructor
-        value: 10
+//
+//Ouput : This will be execute first
+//        This is the inside constructor
+//        value: 10
