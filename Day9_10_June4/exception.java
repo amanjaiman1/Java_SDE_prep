@@ -3,9 +3,11 @@ package Day9_June4;
 public class exception {
     public static void main(String[] args) {
         try {
-            int myInt = Integer.parseInt("abd");
-        } catch (NumberFormatException nfe) {
+            double m = 12/9;
+            System.out.println(m);
+        } catch (ArithmeticException e) {
             System.out.println("Hey this is totally wrong, why you parsing string in Int");
         }
+
     }
 }
